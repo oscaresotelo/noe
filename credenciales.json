@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "pythoncampari",
+  "private_key_id": "b2d70ed0ef8a9bebff7a028aba608d1e8f459c72",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDp4IgiZP0izxFc\nH+oO88MOUcHrQOk1hdlCe1lbwe2lJgP2N4pHbVqFskpkqxc2LM13b9m47zc6buBT\nc7qhPGrVhbvcFgETr8DrV18e4Y1Dns+k5mAs8sDk72jux2TGg6oqFIYFWhvarSIQ\nKwMqXuKWbS+LBxlAOr8yyuIEqJcTsLBlFJMGFbtxhwdemEWSxTFwOjwFbWKUQ5A9\nRUGDM5IbBkMZ8v7KoMHRMBYkEC5IhQgRBsLkxLUIbLJeC5yL50ZqbDFSF0jzahY1\nkWKUvuT2cgvSnFJsqpR7Qq35TUu2vTu0T8FYnOvZtOKktSTIhqKN1Suval3uVFrv\nIEcR01+5AgMBAAECgf9gYtMUMMBk61B9hI//2YgsZ40ZoO00HeJjI8dITW+feLB4\nqKX8KKhknMVMFm8nTtImm4Vgj5IOKpwnn37Y9urODTIYiwhe59t/Nqqaeb41XswT\navf4CS1FfnTOjSi3UH8rk2DMVmxaGDYRn0H/W/9VfNrKiaY+ckmP3FeJtT4x9sAI\nAedUHkfro1igtpBosLW/81czhdpIOWmpIggGf/mJl7nXKvNnCR5+QbZYkZNJfnrT\nTwWf03RDrgoY97yiXLZgdv/jPr1ef40A8GRH6Jt4casBgb98FDJys2xLqLvl1B/L\nSZ+oPgckzv8H2/SgPE9FDLlPGzuu6A4Lyc8NkuECgYEA/dUK0x2ZHr7v6B+xQIHA\nUmnwgbfN6eBnXg7bZ+i+4xEbqOvsBzqiN2ESp7k/5k2rb6FRh+jU5F7g/CMyNYxt\ngTO9CmzjjTm2WT1q7lVSb/Rt5P0MwV7jkitqPQDg3wKIXAhdbNxZIZQmivpGg4vp\nB4jV3AAzZvZOs2hVlGmZFyECgYEA69/cfCK3YZrmD8/C+H4Wn4Zafkf8My9+c4+8\nWw6kYwyqHJrFRLjgSqA3hr9x7StLhhHPGjhY+uSxOixSYql8TVB1oVOeEMkggLqL\nL6o/BtBeTA5Kg2bJRgQ+OiqJQHD9ACF0O/FQMFxlsAzPgHSaRJCzSFwYz6llDc5v\nuCyL7ZkCgYBjPqD02mW797ulbn7HUfP4RSOcFFmWT/8ab4Spo/6+mTnPWi72xJ4Y\nOQQqP+wUB9o300MleIuEnvQooTpIZZeLJMeNA/YUibQaQEFG3mVVEKTHG4mZMZiY\n1hC7uVQy3bKjCUI+Bglzb5GCVUistk9uernjQtDWOQecbfbICGGrAQKBgQDMEbW0\nQGTfsR/x9hH84zm3conAT49GyYRhfq27KgPXHhHfBZg+SKTka5Eep2ttgdOpfqbr\nTGzPRCSA6++rJG9ChKYAmVNbumbAeKQK7QPyZTvwGT0mSjtAtFMSB9MPSbHZ9xeU\n9MYn0Qi5M5wiyr7dK0OxCtz8bNXdCAloEkJNoQKBgQDzwNWTHfo3YsUzc3vzrqet\ne+gpZQ90oohCXf2rgH1sniqGqqIKDo3eJeN8Mdbb1sOTx8cnWAjfL8xgp/dPBv+m\nNtgtlBucXbhcrSQlExvVt2GKxrTWfBZACRROkZ1MmPIA/Y91QWYf54WJq1F7wNNt\n6pXly8G7TxMAXZH0D96cZw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "camparipython@pythoncampari.iam.gserviceaccount.com",
+  "client_id": "115753728803643437483",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/camparipython%40pythoncampari.iam.gserviceaccount.com"
+}
